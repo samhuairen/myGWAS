@@ -1,0 +1,10 @@
+Package: myGWAS
+Type: Package
+Title: a own package for GWAS in R
+Version: 0.1.0
+Author: Huairen Zhang
+Maintainer: HuairenZhang <hrzhang@genetics.ac.cn>
+Description: The package is a collection of my own functions to do GWAS in R
+License: GPL
+Encoding: UTF-8
+LazyData: true
